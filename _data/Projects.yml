@@ -9,9 +9,9 @@ contents:
     #image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
   - title: "Academic Scheduler ([🔗](https://feluldoi.itch.io/academicscheduler))"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
+      - CRUD mobile app for students to manage their academic schedule
+      - Unit testing with xUnit
+      - "Technology Used: .NET MAUI, C#, XAML, SQLite"
     #image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
   # - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
   #   description: 
