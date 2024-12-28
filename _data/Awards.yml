@@ -2,12 +2,22 @@ subject: Awards
 listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: IEEEE Fellow
-    description: Association for Natural Language Processing
+  - title: AWS Certified Cloud Practitioner
+    description: link to the certificate [🔗](https://www.credly.com/badges/f8c9737f-ed87-489b-a2ae-230fdfa2c3c7/linked_in_profile)
+    image: "![](https://i.ibb.co/xsrZVqx/aws-cert.png)"
     date: Feb. 2024
-  - title: Gogle CodeJam
-    description: 3rd place in Gogle CodeJam
-    date: Jul. 2013
-  - title: Millennium Hackaton
-    description: won the best Inspirational Youth Awards
-    date: Oct. 2010
+  - title: ITIL Foundation Certificate in IT Service Management
+    description: link to the certificate [🔗](https://ibb.co/dMxrTYD)
+    date: Feb. 2024
+  - title: 'WGU Certficate of Completion: Front-End Developer'
+    description: link to the certificate [🔗](https://badgr.com/public/assertions/t1zEv8g0QBeHPCLX0QVxDA)
+    #image: "![](https://i.ibb.co/vjpqg0p/wgufrontenddev.png)"
+    image: '<img src="https://i.ibb.co/vjpqg0p/wgufrontenddev.png" width="170">'
+    date: Apr. 2024
+  - title: Certified C# Developer
+    description: link to the certificate [🔗](https://verify.w3schools.com/5WHC4TIJK)
+    image: "![](https://i.ibb.co/CKk6nJ5/w3schools.jpg)"
+    date: Oct. 2022
+
+
+  
