@@ -7,6 +7,7 @@ contents:
     description:
       - Developed a full-stack ticketing solution for the controls department that eliminated legacy requesting systems. The project was designed using Blazor WebAssembly with ASP.NET Core Hosted, MS SQL Server database, and deployed to Internet Information Service (IIS).
       - Upgraded the existing user login management system to a network level infrastructure that can be managed entirely remote. This system was designed in Ignition SCADA IDE using Python and MS SQL Server
+      - Designed and implemented end-to-end automation solutions combining industrial robotics, PLC control systems, human-machine interfaces, and computer vision inspection
     date: Jul. 2020 - Ongoing
   # - title: Amazone
   #   role: Senior Software Engineer
