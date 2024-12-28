@@ -2,21 +2,21 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Topre America Corporation
+    role: Controls Engineer III
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
-    description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Developed a full-stack ticketing solution for the controls department that eliminated legacy requesting systems. The project was designed using Blazor WebAssembly with ASP.NET Core Hosted, MS SQL Server database, and deployed to Internet Information Service (IIS).
+      - Upgraded the existing user login management system to a network level infrastructure that can be managed entirely remote. This system was designed in Ignition SCADA IDE using Python and MS SQL Server
+    date: Jul. 2020 - Ongoing
+  # - title: Amazone
+  #   role: Senior Software Engineer
+  #   description: 
+  #     - Built a Java microservice, database schema to manage customer accounts
+  #     - Enhanced internal pipelines to query real-time data from client devices
+  #   date: Apr. 2016 - Dec. 2018
+  # - title: Pacebook
+  #   role: Software Engineer Intern
+  #   description: 
+  #     - Designed the dynamic website using React for data visualization
+  #     - Integrated '*Yolo*' to boost the accuracy of the object detection
+  #   date: Jul. 2013 - Sep. 2013
